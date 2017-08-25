@@ -23,7 +23,7 @@ Proporcione ejemplos de los archivos que se encuentran en cada directorio (expli
 archivo por directorio).
 
 | Directorio | Función |
-|------|------|------|
+|------|------|
 | bin | Almacenar todos los binarios necesarios para garantizar las funciones básicas del usuario. Permitir ejecución de de utilidades estándar de la terminal de Linux. |
 | boot | Almacenar todos los ejecutables y archivos que son necesarios en el proceso de arranque del sistema antes que el kernel inice en el sistema. |
 | dev | Incluir dispositivos de almacenamiento conectados al sistema en forma de archivos. |

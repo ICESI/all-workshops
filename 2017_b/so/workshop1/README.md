@@ -85,6 +85,14 @@ archivo por directorio).
 
 3. ¿Cuál es la utilidad del comando printenv en Linux?, Investigue acerca de la creación de variables de ambiente en Linux y como hacerlas permanentes. Cree una variable de ambiente, hágala permanente y muestre evidencias del funcionamiento.
 
+## PRINTENV
+
+Muestra el valor de todas las variables de ambiente; si se indica un nombre de variable, muestra el valor de esa variable.
+
+## VARIABLE AMBIENTE PERMANENTE
+
+* https://docs.google.com/document/d/10v85Hb0jjBQYTfqPZP_WySyD2mTkJexdHs3Qe0RSClU/edit?usp=sharing
+
 ### Nota
 
 El informe debe ser entregado en formato README.md y debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/so-workshop1 y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida. El código fuente y la url de github deben incluirse en el informe.  

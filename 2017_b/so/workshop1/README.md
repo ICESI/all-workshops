@@ -104,3 +104,4 @@ El informe debe ser entregado en formato README.md y debe ser subido a un reposi
 * https://github.com/ICESI/so-commands/tree/master/centos7
 * https://cmdchallenge.com  
 * https://www.gutenberg.org
+* http://www.sysadmit.com/2016/04/linux-variables-de-entorno-permanentes.html

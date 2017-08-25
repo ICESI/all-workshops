@@ -125,7 +125,7 @@ VARIABLEENTORNO=SYSADMIT
 El informe debe ser entregado en formato README.md y debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/so-workshop1 y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida. El código fuente y la url de github deben incluirse en el informe.  
 
 ## Referencias
-
+* https://github.com/ICESI/so-commands/tree/master/centos7/2017_b/so/workshop1/README.md
 * https://github.com/ICESI/so-commands/tree/master/centos7
 * https://cmdchallenge.com  
 * https://www.gutenberg.org

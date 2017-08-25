@@ -72,7 +72,16 @@ archivo por directorio).
 
 | Comando   | Usuario | Descripción   |
 |------|------|------|
-| $ an awesome command | who call it | an awesome description |
+| # zdump <zone>| root | Muestra información horaria especificada |
+| # zsoelim | root | Lee archivos y reemplaza lineas de tipo .so |
+| # reboot | root | Renicia el sistema |
+| # id <user> | operativos | Muestra UID, GID, GROUPS del usuario user. |
+| # ping <host> | operativos | Permite conocer si host esta activo en la red |
+| # ifconfig eth0 up : down | root | Permite activar o bajar la tarjeta de red eth0 del sistema |
+| # yum check-update | root | Permite determinar si hay actualizaciones disponibles |
+| # yum search <keyword> | root | Buscar paquetes que contengan el keyword dado en todos los repositorios |
+| # ls -lh  | operativos | Permite listar los archivos de forma paginada |
+| # wc <file> | operativos | Permite mostrar el número de palabras, líneas y caracteres de un archivo. |
 
 3. ¿Cuál es la utilidad del comando printenv en Linux?, Investigue acerca de la creación de variables de ambiente en Linux y como hacerlas permanentes. Cree una variable de ambiente, hágala permanente y muestre evidencias del funcionamiento.
 
@@ -82,6 +91,8 @@ El informe debe ser entregado en formato README.md y debe ser subido a un reposi
 
 ## Referencias
 
+* https://computernewage.com/2015/06/14/el-arbol-de-directorios-de-linux-al-detalle-que-contiene-cada-carpeta/
+* http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/
 * https://github.com/ICESI/so-commands/tree/master/centos7
 * https://cmdchallenge.com  
 * https://www.gutenberg.org

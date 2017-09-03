@@ -15,7 +15,7 @@
 * Box del sistema operativo CentOS7
 
 ### Descripción
-Deberá	realizar	el	aprovisionamiento	de	un	ambiente	compuesto	por	los	siguientes	elementos:	un servidor	encargado de	realizar balanceo de	carga,	dos	servidores	web	(puede	emplear	apache+php o crear	un servicio web con el	lenguaje de su preferencia). Se	debe probar	el	funcionamiento	del balanceador	a través	de	una	aplicación	web	que realice	 consultas	 a	 la	 base	 de	 datos	 a	 través	 de	 los servidores	 web (mostrar visualmente cual	servidor web atiende la	petición)
+Deberá	realizar	el	aprovisionamiento	de	un	ambiente	compuesto	por	los	siguientes	elementos: un	servidor	web	(puede	emplear	apache+php o crear	un servicio web con el	lenguaje de su preferencia) y un servidor de base de datos (postgresql, mysql ó mariadb). Se	debe probar	el	funcionamiento	de la conexión entre los servicios web y base de datos a través	de	una	aplicación	web	que realice	 consultas a la	 base	 de	 datos
 
 ![][1]
 
@@ -33,10 +33,10 @@ maquinas a aprovisionar, interfaces solo anfitrión, interfaces tipo puente, dec
 
   Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     config.ssh.insert_key = false
-    config.vm.define :load_balancer do |lb
-       #
-    end
     config.vm.define :wb_server do |wb|
+      #
+    end
+    config.vm.define :db_server do |db|
       #
     end
    end
@@ -53,7 +53,7 @@ maquinas a aprovisionar, interfaces solo anfitrión, interfaces tipo puente, dec
 
 ### Nota
 
-El informe debe ser entregado en formato README.md y debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/sd-workshop1 y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida. El código fuente y la url de github deben incluirse en el informe.  
+El informe debe ser entregado en formato README.md y debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/sd-workshop2 y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida. El código fuente y la url de github deben incluirse en el informe.  
 
 ### Referencias
 * https://docs.chef.io/  

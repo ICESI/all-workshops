@@ -8,7 +8,7 @@
 ### Objetivos
 * Realizar de forma autónoma el aprovisionamiento automático de infraestructura
 * Diagnosticar y ejecutar de forma autónoma las acciones necesarias para lograr infraestructuras estables
-* Integrar servicios ejecutándose en nodos distintos
+* Realizar el aprovisionamiento automático de un balanceador de carga
 
 ### Prerrequisitos
 * Vagrant

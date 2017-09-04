@@ -1,4 +1,4 @@
-### Taller 1
+### Taller 2
 **Universidad ICESI**  
 **Curso:** Sistemas Distribuidos  
 **Docente:** Daniel Barragán C.  

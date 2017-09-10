@@ -25,12 +25,12 @@ El tercer taller del curso sistemas operativos trata sobre las llamadas al siste
 
 **Nota:** Cuando compile programas tenga en cuenta que estos pueden necesitar la instalación de librerías para su compilación y ejecución.
 
-** Debian **
+**Debian**
 ```
 # apt-get install libcurl4-openssl-dev
 $ gcc -o curl curl.c -lcurl
 ```
-** CentOS **
+**CentOS**
 ```
 # yum install libcurl-devel
 $ gcc -o curl curl.c -lcurl

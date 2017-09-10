@@ -21,7 +21,7 @@ Deberá	realizar	el	aprovisionamiento	de	un	ambiente	compuesto	por	los	siguiente
 
 ### Actividades
 
-1. Consigne los comandos de linux necesarios para el aprovisionamiento de los servicios solicitados. En este punto no debe incluir recetas solo se requiere que usted identifique los comandos o acciones que debe automatizar
+1. Consigne los comandos de Linux necesarios para el aprovisionamiento de los servicios solicitados. En este punto no debe incluir recetas solo se requiere que usted identifique los comandos o acciones que debe automatizar
 2. Escriba el archivo Vagrantfile para realizar el aprovisionamiento, teniendo en cuenta definir:
 maquinas a aprovisionar, interfaces solo anfitrión, interfaces tipo puente, declaración de cookbooks, variables necesarias para plantillas. Incluya el Vagrantfile añadiendo comentarios en cada línea encargada del aprovisionamiento de la infraestructura.
 

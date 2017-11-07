@@ -20,11 +20,12 @@ Deberá	realizar	el	aprovisionamiento	de	un	ambiente	compuesto	por	los	siguiente
 ### Actividades
 
 1. Realice el despliegue de un repositorio de paquetes de pip
-2. Escriba un archivo Dockerfile donde realice el despliegue de la aplicación proporcionada. Las instalaciones de los paquetes pip y dependencias deberán realizarse a partir de repositorios de paquetes locales, incluya comentarios donde explique las líneas del archivo Dockerfile
+2. Escriba un archivo Dockerfile donde realice el despliegue de la aplicación proporcionada en clase, incluya comentarios donde explique las líneas del archivo Dockerfile
 3. Incluya los comandos para:
  * Construir la imagen del contenedor
  * Ejecutar el contenedor.
  * Incluya evidencias gráficas que muestran el funcionamiento de lo solicitado
+4. (Opcional) Despliegue un servicio web con python y realice la instalación de los paquetes pip a partir de un repositorio de paquetes local alojado en un contenedor.
 
 ### Nota
 

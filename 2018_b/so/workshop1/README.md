@@ -1,4 +1,4 @@
-### Taller 2
+### Taller 1
 **Universidad ICESI**  
 **Curso:** Sistemas Operativos  
 **Docente:** Daniel Barragán C.  
@@ -14,7 +14,7 @@
 * Máquina virtual con sistema operativo CentOS7
 
 ### Descripción
-El segundo taller del curso sistemas operativos trata sobre los hechos históricos importantes en la historia de los sistemas operativos
+El primer taller del curso sistemas operativos trata sobre los hechos históricos importantes en la historia de los sistemas operativos
 
 ### Actividades
 
@@ -22,7 +22,7 @@ El segundo taller del curso sistemas operativos trata sobre los hechos históric
 
 ### Nota
 
-El informe debe ser entregado en formato README.md y debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/so-workshop2 y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida. El código fuente y la url de github deben incluirse en el informe.  
+El informe debe ser entregado en formato README.md y debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/so-workshop1 y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida. 
 
 ## Referencias
 * http://faculty.salina.k-state.edu/tim/ossg/Introduction/OShistory.html  

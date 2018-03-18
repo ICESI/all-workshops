@@ -1,13 +1,14 @@
-### Taller 1
+### Taller 2
 **Universidad ICESI**  
 **Curso:** Sistemas Distribuidos  
 **Docente:** Daniel Barragán C.  
-**Tema:** Paradigmas de Comunicación  
+**Tema:** Monitoreo de alertas con Sensu y RabbitMQ  
 **Correo:** daniel.barragan at correo.icesi.edu.co
 
 ### Objetivos
-* Comprender los conceptos y componentes básicos de las colas de mensajes
-* Realizar de forma autónoma el aprovisionamiento automático de infraestructura para el uso de colas de mensajeria
+* Realizar el aprovisionamiento automático de herramientas para el monitoreo de infraestructura
+* Diagnosticar y corregir fallas en infraestructura distribuida
+* Desplegar infraestructura que hace uso de colas de mensajería
 
 ### Prerrequisitos
 * Vagrant

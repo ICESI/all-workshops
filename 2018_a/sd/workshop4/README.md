@@ -30,4 +30,6 @@ Tenga en cuenta las siguientes consideraciones:
 3. Despliegue un nuevo cliente y muestre como este sin ningun tipo intervención es usado por el balanceador.
 
 ### Referencias
-* https://www.consul.io/
+* https://www.consul.io/  
+* http://www.admintome.com/blog/installing-consul-on-ubuntu/  
+* https://superuser.com/questions/968561/how-to-get-the-machine-ip-address-in-a-systemd-service-file

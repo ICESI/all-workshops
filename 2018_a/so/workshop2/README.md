@@ -15,7 +15,7 @@
 * Compilador de lenguaje C
 
 ### Descripción
-El primer taller del curso sistemas operativos trata sobre las llamadas al sistema del sistema operativo Linux
+El segundo taller del curso sistemas operativos trata sobre las llamadas al sistema del sistema operativo Linux
 
 ### Actividades
 1. Realice un programa que haga uso de tres llamadas al sistema diferentes a las empleadas en clase. Valide por medio del comando strace el llamado a las llamadas al sistema empleadas. Describa el funcionamiento de las llamadas al sistema empleadas y cada uno de sus parámetros.
@@ -23,7 +23,6 @@ El primer taller del curso sistemas operativos trata sobre las llamadas al siste
 3. Cree el listado de los comandos empleados en la realización de este taller.
 
 ### Nota
-
 El informe debe ser entregado en formato README.md y debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/so-workshop2 y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida.
 
 ## Referencias
